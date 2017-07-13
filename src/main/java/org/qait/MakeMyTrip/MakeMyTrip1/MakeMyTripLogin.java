@@ -36,11 +36,7 @@ public class MakeMyTripLogin extends ExcelFile {
 		driver.findElement(loginButton).click();
 	}
 
-//	  public String getLoginTitle(){
-//
-//		     return    driver.findElement().getText();
-//
-//		    }
+
 	  
 	public void loginToMMT() {
 
